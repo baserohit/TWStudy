@@ -1,5 +1,5 @@
 # TWStudy
-![TWStudy](https://drive.google.com/file/d/1EyK1ZOmlIDgQKAWrrsk3TQz9lWKn73m0/view?usp=sharing)
+![TWStudy](https://github.com/baserohit/TWStudy/blob/main/img/bai-img.png)
 
 ## Introduction
 This is a code repository for the corresponding ProNef App.
