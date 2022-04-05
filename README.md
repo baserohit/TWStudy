@@ -1,7 +1,7 @@
 # TWStudy
-![TWStudy](https://github.com/baserohit/TWStudy/blob/main/img/bai-img.png)
+![TWStudy](https://github.com/baserohit/TWStudy/blob/main/img/TWStudy.png)
 
 ## Introduction
-This is a code repository for the corresponding ProNef App.
+This is a code repository for the corresponding TWStudy Website.
 
-Master React Native by building a modern NFT Marketplace iOS and Android #ReactNative Application! Alongside developing the application, you'll also build a special landing page to showcase all of your app's features! Essentially, this is a full React Native Crash Course Tutorial video, enjoy!
+Master HTNL, CSS and JavaScript by building a modern and ompletly responsive Website! Alongside this website also include features like Dark Mode, Glsh mode and many more beautiful animation!
